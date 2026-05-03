@@ -1,0 +1,8 @@
+# docker and local env
+.env
+.env.*
+!*.example
+WORKFLOW.local.md
+.venv/
+.venv*/
+.venv-*/
